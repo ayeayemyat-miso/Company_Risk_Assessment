@@ -27,14 +27,14 @@ This project evaluates the risk profile of **[Microsoft Corporation]** from the 
 - **Interest Rate and Foreign Exchange Risk**: Sensitivity analysis.
 ![Financial Risk](https://github.com/ayeayemyat-miso/Company_Risk_Assessment/blob/main/Financial%20Risks%20assessment.png).
   *Financial Risk of Microsoft(2024).*  
--   
+  
 
 ### **3. Share Price Risk Modeling**  
 - ** Daily Volatility (σ)**: 1.92%.  
 - **VaR (95% Confidence)**: 2.9% loss daily or 5.44% weekly.  
 - **GARCH (1,1) Output**: High persistence (α + β = 0.948).  
-
-
+![Var_CVaR](https://github.com/ayeayemyat-miso/Company_Risk_Assessment/blob/main/VaR_CVaR_Microsoft.png). 
+  *Var and CVaR of Microsoft(2024).*  
 ---
 ## 📂 Files  
 
