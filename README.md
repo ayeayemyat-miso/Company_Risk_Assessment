@@ -26,7 +26,7 @@ This project evaluates the risk profile of **[Microsoft Corporation]** from the 
    - Interest Coverage Ratio: 44.88 
 - **Interest Rate and Foreign Exchange Risk**: Sensitivity analysis.
 ![Financial Risk](https://github.com/ayeayemyat-miso/Company_Risk_Assessment/blob/main/Financial%20Risks%20assessment.png).
-  *Financial Risk of Microsoft(2024).*  
+  *Financial Risk of Microsoft in comparison with its Competitors(2024).*  
   
 
 ### **3. Share Price Risk Modeling**  
