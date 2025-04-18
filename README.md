@@ -1,18 +1,19 @@
 ## Company Risk Assessment: [Microsoft Corporation]  
-**Keywords:** Financial Risk Analysis, GARCH Model, Value at Risk (VaR), Equity Investment Risk  
+**Keywords:** Fandamental Risk Analysis, Financial Statement Analysis, GARCH Model, Value at Risk (VaR),Conditional Value at Risk (CVaR)/Expected Shortfall 
 
 
 ## 📌 Overview  
 This project evaluates the risk profile of **[Microsoft Corporation]** from the perspective of an equity investor, covering:  
 1. **Selected Fundamental Risks**: Business, geographic, and political risks.  
-2. **Financial Risks**: IBalance sheet risks (using profitability/liquidity/solvency ratios), Interest rate and  foreign Exchange Risk. 
-3. **Share Price Risks**: Volatility, VaR, CVaR, and GARCH (1,1) modeling.  
+2. **Financial Risks**: Profitability/liquidity/solvency ratios, Interest rate and  foreign Exchange Risk. 
+3. **Share Price Risks**: Volatility, VaR, CVaR, Z-score and GARCH (1,1) modeling.  
 
 [Download Report.pdf file](https://drive.google.com/file/d/1fJDF8-zHhaTsqBQx4tcf098vk21qlLyC/view?usp=sharing).
 [View Presentation](https://docs.google.com/presentation/d/1d4Tv575q9g_zh57wCjQrcwZjhXU5rBlE/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true). 
 
 
 ## 🚀 Key Analyses  
+
 ### **1. Fundamental Risk Assessment**  
 - Discussed risks:  
   - **Business Risk**: Market competition, supply chain dependencies.  
@@ -20,10 +21,14 @@ This project evaluates the risk profile of **[Microsoft Corporation]** from the 
   - **Political Risk**: Regulatory changes.  
 
 ### **2. Financial Risk Analysis**  
-- **Ratios Calculated**:  Example: 
+- **Examples for Ratios Calculated**:  
    - Current Ratio: 1.27
    - Interest Coverage Ratio: 44.88 
-- **Interest Rate and Foreign Exchange Risk**: Sensitivity analysis.   
+- **Interest Rate and Foreign Exchange Risk**: Sensitivity analysis.
+![Financial Risk](<img width="480" alt="image" src="https://github.com/user-attachments/assets/852e4efb-00c1-414f-8d22-c3bb646e201e" />
+)  
+  *Financial Risk of Microsoft(2024).*  
+-   
 
 ### **3. Share Price Risk Modeling**  
 - ** Daily Volatility (σ)**: 1.92%.  
@@ -43,3 +48,9 @@ The implementation of volatility forecasting (GARCH 1,1) and downside risk metri
 
 ### **3. [Altman Z-Score Calculation](https://docs.google.com/spreadsheets/d/10sU5M7g_Pkn8TmU3QQsFAMG5indtGYkr/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true)**  
 Quantitative evaluation of Microsoft’s financial stability and bankruptcy risk.  
+
+## ⚠️ Disclaimer  
+For educational/demonstration purposes only.  
+- Models are simplified.  
+- No affiliation with Microsoft.  
+- Use at your own risk.  
