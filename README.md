@@ -11,6 +11,10 @@ This project evaluates the risk profile of **[Microsoft Corporation]** from the 
 [Download Report.pdf file](https://drive.google.com/file/d/1fJDF8-zHhaTsqBQx4tcf098vk21qlLyC/view?usp=sharing).
 [View Presentation](https://docs.google.com/presentation/d/1d4Tv575q9g_zh57wCjQrcwZjhXU5rBlE/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true). 
 
+## 🎥 Short Presentation GIF- Microsoft Risk Assessment
+
+![Microsoft Risk Assessment](https://github.com/ayeayemyat-miso/Company_Risk_Assessment/blob/main/Short_Presentation.gif?raw=true)
+
 
 ## 🚀 Key Analyses  
 
