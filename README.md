@@ -56,4 +56,4 @@ Quantitative evaluation of Microsoft’s financial stability and bankruptcy risk
 For educational/demonstration purposes only.  
 - Models are simplified.  
 - No affiliation with Microsoft.  
-- Use at your own risk.  
+
