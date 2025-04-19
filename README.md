@@ -8,8 +8,6 @@ This project evaluates the risk profile of **[Microsoft Corporation]** from the 
 2. **Financial Risks**: Profitability/liquidity/solvency ratios, Interest rate and  foreign Exchange Risk. 
 3. **Share Price Risks**: Volatility, VaR, CVaR, Z-score and GARCH (1,1) modeling.  
 
-[Download Report.pdf file](https://drive.google.com/file/d/1fJDF8-zHhaTsqBQx4tcf098vk21qlLyC/view?usp=sharing).
-[View Presentation](https://docs.google.com/presentation/d/1d4Tv575q9g_zh57wCjQrcwZjhXU5rBlE/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true). 
 
 ## 🎥 Short Presentation GIF- Microsoft Risk Assessment
 
@@ -51,6 +49,8 @@ The implementation of volatility forecasting (GARCH 1,1) and downside risk metri
 
 ### **3. [Altman Z-Score Calculation](https://docs.google.com/spreadsheets/d/10sU5M7g_Pkn8TmU3QQsFAMG5indtGYkr/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true)**  
 Quantitative evaluation of Microsoft’s financial stability and bankruptcy risk.  
+
+### **4.[Short Powerpoint Presentation File)[View Presentation](https://docs.google.com/presentation/d/1d4Tv575q9g_zh57wCjQrcwZjhXU5rBlE/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true). 
 
 ## ⚠️ Disclaimer  
 For educational/demonstration purposes only.  
